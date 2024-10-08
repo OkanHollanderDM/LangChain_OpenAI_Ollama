@@ -5,3 +5,4 @@ langchain_text_splitters
 pypdf
 bs4
 streamlit
+fastapi
