@@ -5,5 +5,10 @@ langchain_text_splitters
 pypdf
 bs4
 streamlit
+
+
+# FASTAPI
 fastapi
 uvicorn
+langserve
+sse_starlette
