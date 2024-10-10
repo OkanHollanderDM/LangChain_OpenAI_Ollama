@@ -12,3 +12,4 @@ fastapi
 uvicorn
 langserve
 sse_starlette
+sqlalchemy
